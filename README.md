@@ -1,7 +1,7 @@
 # CodvedaInternTask2-Intermediate-
 A professional To-Do List application built using HTML, CSS, and JavaScript.
 
-
+The  site is live at https://niranjansurve.github.io/CodvedaInternTask2-Intermediate-/
 
 ## Internship Task
 Level 2 – Intermediate  
